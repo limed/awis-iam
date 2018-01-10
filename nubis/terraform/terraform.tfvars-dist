@@ -1,0 +1,4 @@
+account       = ""
+region        = "us-west-2"
+arena         = "core"
+service_name  = ""

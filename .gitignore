@@ -1,0 +1,6 @@
+.terraform/
+terraform.tfvars
+!terraform.tfvars-dist
+terraform.tfstate
+terraform.tfstate.backup
+.swp
