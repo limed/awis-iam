@@ -22,7 +22,7 @@ resource "aws_iam_user_policy" "awis-query" {
     {
       "Effect": "Allow",
       "Action": [
-				"awis:GET",
+        "awis:GET",
         "AlexaTopSites:GET"
       ],
       "Resource": "*"
